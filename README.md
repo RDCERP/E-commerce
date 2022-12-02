@@ -33,11 +33,12 @@ Start the application by running
     node index or npm start
     
   ## Questions
+https://drive.google.com/file/d/1bSW21XX3Cz5PIf88WlR42FZS4Kog_0c0/https://drive.google.com/file/d/1bSW21XX3Cz5PIf88WlR42FZS4Kog_0c0/view
 ##  
     For more information you can reach out to me at @gmail.com 
     or you can find me on GitHub at https://github.com/rdcerp
-    You can demo the app by clicking the following link. #link
-  
+    You can see the demo for the app by clicking the following link above. 
+    
   ## License
 ##
     MIT
